@@ -4,7 +4,7 @@
 💡 - 👀 **I’m interested in:** Cybersecurity, ethical hacking, and penetration testing. My goal is to enhance digital safety and contribute to a more secure online world!  
 🚀 - 🌱 **I’m currently learning:** Advanced network security techniques and expanding my knowledge in threat hunting.  
 🤝 - 💞️ **I’m looking to collaborate on:** Offensive security projects and automation tools that improve security workflows.  
-📧 - 📫 **How to reach me:** You can find me on various platforms by searching for @MrSecurityAnalyst or email: mrsecurityanalyst@example.com  
+📧 - 📫 **How to reach me:** You can find me on various platforms by searching for @MrSecurityAnalyst or email: mrscientist117@gmail.com  
 🏳️‍🌈 - 😄 **Pronouns:** He/Him  
 🤖 - ⚡ **Fun fact:** I love exploring AI's role in cybersecurity and how we can harness machine learning for threat detection.
 
