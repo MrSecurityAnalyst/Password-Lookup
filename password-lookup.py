@@ -211,29 +211,3 @@ def comlexity_chechker():
 comlexity_chechker()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-''' user_name=input('Enter the name:')
- user_password=input("Enter the password:")
- password_lenght=len(user_password)
- hiden_pass='*'*password_lenght
- print(f'Your username is {user_name} and the passord is {hiden_pass} is')'''
